@@ -2,6 +2,8 @@ This project is mostly an exercise for learning React.js! Feel free to fork/clon
 
 Many thanks to Clement Mihailescu for the skeleton of this project, and the implementation of merge sort. You can view the skeleton repository [here](https://github.com/clementmihailescu/Sorting-Visualizer-Tutorial).
 
+View the sorting visualizer [here](https://bholbs.github.io/sorting-visualizer/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
